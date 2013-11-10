@@ -1,4 +1,4 @@
-EconomicHistory
+# EconomicHistory
 ===============
 
-Various links and information pertaining to economical developments during certain historical periods
+### Welcome to my repository of various datasets and papers pertaining to economic development by time period
